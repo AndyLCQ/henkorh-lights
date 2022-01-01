@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GTS",
+        "SSS"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glowstone"
+        },
+        "T": {
+            "item": "minecraft:torch"
+        },
+        "S": {
+            "item": "minecraft:sea_lantern"
+        }
+    },
+    "result": {
+        "item": "minecraft:light",
+        "count": 16
+    }
+}
+  
